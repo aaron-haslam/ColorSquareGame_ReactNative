@@ -1,0 +1,3 @@
+rootProject.name = 'Tapit'
+
+include ':app'
